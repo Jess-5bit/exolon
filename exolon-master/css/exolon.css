@@ -1,11 +1,10 @@
 body {
-  padding-top: 10%;
   background-color: black;
   color: #00DEDE;
   font-family: Verdana,Geneva,sans-serif;
   font-size: 12px;
   font-weight: bold;
-  margin-top: 5px;
+  margin-top: 20px;
   overflow: hidden;
 }
 strong {
